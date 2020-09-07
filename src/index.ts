@@ -1,1 +1,3 @@
-export { default as twoPlusTwo } from './lib';
+import subscribeToContainers from './lib';
+
+export { subscribeToContainers };
