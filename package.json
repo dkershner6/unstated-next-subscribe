@@ -1,6 +1,6 @@
 {
   "name": "unstated-next-subscribe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Higher Order Component (HOC) that allows for use of unstated-next containers in non-FunctionalComponents (class components).",
   "main": "dist/index.js",
   "source": "src/index.ts",
