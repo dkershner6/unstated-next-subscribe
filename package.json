@@ -1,6 +1,6 @@
 {
   "name": "unstated-next-subscribe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Higher Order Component (HOC) that allows for use of unstated-next containers in non-FunctionalComponents (class components).",
   "main": "dist/index.js",
   "source": "src/index.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dkershner6/npm-typescript-package-template.git"
+    "url": "git+https://github.com/dkershner6/unstated-next-subscribe.git"
   },
   "keywords": [
     "unstated",
@@ -33,9 +33,9 @@
   "author": "Derek Kershner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dkershner6/npm-typescript-package-template/issues"
+    "url": "https://github.com/dkershner6/unstated-next-subscribe/issues"
   },
-  "homepage": "https://github.com/dkershner6/npm-typescript-package-template#readme",
+  "homepage": "https://github.com/dkershner6/unstated-next-subscribe#readme",
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.1",
     "@testing-library/react": "^10.4.7",
